@@ -131,6 +131,9 @@ GEM
     rbpdf-font (1.19.1)
     rdoc (4.3.0)
     redcarpet (3.3.4)
+    redmine_extensions (0.1.23)
+      actionpack (~> 4.2)
+      rails (~> 4.2)
     request_store (1.0.5)
     rmagick (2.16.0)
     roadie (3.2.1)
@@ -195,6 +198,7 @@ DEPENDENCIES
   rbpdf (~> 1.19.2)
   rdoc (~> 4.3)
   redcarpet (~> 3.3.2)
+  redmine_extensions
   request_store (= 1.0.5)
   rmagick (>= 2.14.0)
   roadie-rails
